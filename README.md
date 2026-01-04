@@ -2,7 +2,7 @@
 
 ## 🔐 TryHackMe Progress (Auto-Updated)
 
-![TryHackMe Badge]()
+![TryHackMe Badge](https://tryhackme.com/prajwalbarve5557/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=689582212c6c91479aa229cb)
 
 - 🏅 Rank: **Auto-updating**
 - 🧩 Focus Areas:
