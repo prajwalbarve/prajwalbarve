@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👨‍💻 Prajwal Barve | Cybersecurity & Systems Engineer
 
-<!--
-**prajwalbarve/prajwalbarve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 TryHackMe Progress (Auto-Updated)
 
-Here are some ideas to get you started:
+![TryHackMe Badge]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏅 Rank: **Auto-updating**
+- 🧩 Focus Areas:
+  - Linux & Privilege Escalation
+  - Networking Fundamentals
+  - Web Security
+  - Wireless Attacks
+
+🔗 TryHackMe Profile: https://tryhackme.com/p/prajwalbarve5557
+
+---
+
+## 🛠️ Skills
+- Linux (Arch, Kali)
+- Networking (TCP/IP, OSPF, Wireshark)
+- Security Tools (nmap, burp, aircrack-ng)
+- Windows & Active Directory (Basics)
+
+## 📂 Learning Platforms
+- TryHackMe
+- Hack The Box (future)
